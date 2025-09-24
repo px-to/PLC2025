@@ -5,7 +5,7 @@ Este repositório tem como objetivo disponibilizar os Trabalhos Práticos Contí
 Este repositório é da autoria do aluno Dinis da Silva Peixoto, com o número A108566.
 
 
-[Foto](image.png)
+![Foto](image.png)
 
 
 [TPC1](/TPC1/)
